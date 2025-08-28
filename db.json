@@ -1,0 +1,67 @@
+{
+  "habits": [
+    {
+      "id": "1",
+      "name": "Drink Waterw",
+      "description": "8 glasses per day",
+      "frequency": "weekly",
+      "streak": 3,
+      "completedDates": [
+        "2025-08-25",
+        "2025-08-26",
+        "2025-08-27"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Workout",
+      "description": "Gym or home workout",
+      "frequency": "weekly",
+      "streak": 2,
+      "completedDates": [
+        "2025-08-21",
+        "2025-08-28"
+      ]
+    },
+    {
+      "id": "b269",
+      "name": "dewff",
+      "description": "wewfwfe",
+      "frequency": "daily",
+      "streak": 1,
+      "completedDates": [
+        "2025-08-28"
+      ]
+    },
+    {
+      "id": "4469",
+      "name": "ewew",
+      "description": "wdfwf",
+      "frequency": "daily",
+      "streak": 1,
+      "completedDates": [
+        "2025-08-28"
+      ]
+    },
+    {
+      "id": "0898",
+      "name": "rteyu",
+      "description": "retr",
+      "frequency": "weekly",
+      "streak": 1,
+      "completedDates": [
+        "2025-08-28"
+      ]
+    },
+    {
+      "id": "76d3",
+      "name": "sdgdfhg",
+      "description": "sfbdgnfhgmjh",
+      "frequency": "daily",
+      "streak": 1,
+      "completedDates": [
+        "2025-08-28"
+      ]
+    }
+  ]
+}
